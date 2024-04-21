@@ -1,4 +1,4 @@
-#Resume Website
+# Resume Website
 
-## Built using HTML and CSS only!
+<p>Built using HTML and CSS only!</p>
 [Deployed link](https://main--hisham-resume.netlify.app/)
